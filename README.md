@@ -1,6 +1,7 @@
-# frequencf-domian-adaptive-filter
-FDAF in python
+# 自己编写的一些python常用模块
+### frequencf-domian-adaptive-filter
 
-频域自适应滤波和partioned版本，可定义帧移和帧长
+- fdaf.py：频域自适应滤波
+- pfdaf.py：partial constraint版本，可定义帧移和帧长
 
-frequency domain adaptive filter and an partitioned edtion,could custom hop length and frame length 
+frequency domain adaptive filter and an partial edtion,could custom hop length and frame length 
