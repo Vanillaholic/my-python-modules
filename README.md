@@ -9,3 +9,5 @@ frequency domain adaptive filter and a partial constraint edtion,could custom ho
 ### noise
 - noise.py：添加噪声
 
+### wideband ambiguity
+- waf.py:宽带模糊函数
