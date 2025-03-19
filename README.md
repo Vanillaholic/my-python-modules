@@ -1,5 +1,5 @@
 # 自己编写的一些python常用模块
-### frequencf domian adaptive filter
+### frequency domian adaptive filter
 
 frequency domain adaptive filter and a partial constraint edtion,could custom hop length and frame length 
 
