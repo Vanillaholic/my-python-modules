@@ -12,3 +12,6 @@ frequency domain adaptive filter and a partial constraint edtion,could custom ho
 ### wideband ambiguity
 - ~~waf.py:宽带模糊函数~~(在老师提供版本的基础上改进，最好忽略)
 - RDM.py:宽带模糊函数(本人编写的版本)
+
+### sequence generator
+- sequence.py:生成M序列和costas序列
