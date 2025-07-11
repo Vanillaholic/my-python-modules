@@ -15,3 +15,8 @@ frequency domain adaptive filter and a partial constraint edtion,could custom ho
 
 ### sequence generator
 - sequence.py:生成M序列和costas序列
+
+### beamforming
+- beamforming.py: 对信号进行波束形成
+  - `CBF()`:常规波束形成
+  - `CBF_gpu()`：使用cupy进行常规波束形成
